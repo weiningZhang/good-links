@@ -11,4 +11,14 @@ links about useful things.
 links about famous cv group.
 
 XiaoOu Tang: http://mmlab.ie.cuhk.edu.hk/
-w
+
+
+# Good NLP links
+(Chinese)Word2vec pipeline: http://mp.weixin.qq.com/s/56xCZK-8nz81Cw6V54w7QA
+(Chinese)Word2vec traning : http://mp.weixin.qq.com/s/raADIJBCTvBxqX5Hg6iCpQ
+
+resource links: 
+- Word2Vec Tutorial - The Skip-Gram Model
+http://t.cn/Rc5RfJ2
+- Word2Vec (Part 1): NLP With Deep Learning with Tensorflow (Skip-gram)
+http://t.cn/RoVEiUB
